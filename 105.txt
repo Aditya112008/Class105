@@ -1,0 +1,13 @@
+standard deviation is a measure of how spreadout a dataset is ..
+without calclating the standard deviation of the data we cannot know whetherthe data is closed to the average or the data is spreadout over a wide range
+
+x = is the value in the datasheet
+mean = sum of values / total number of values
+n = number of values in the datasheet 
+
+x - mean 
+square of (x - mean)
+find the sum of [square of (x - mean)]
+
+standard deviation = square root of [find the sum of [square of (x - mean)]/n-1]
+
